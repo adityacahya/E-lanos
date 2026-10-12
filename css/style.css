@@ -123,7 +123,7 @@ img {
   color: var(--dark);
 }
 .bname span {
-  color: var(--primary);
+  color: var(--secondary);
 }
 .bsub {
   font-size: 0.62rem;
@@ -208,7 +208,7 @@ section {
   margin-bottom: 12px;
 }
 .stitle span {
-  color: var(--primary);
+  color: var(--secondary);
 }
 .sline {
   width: 58px;
@@ -334,7 +334,7 @@ section {
   margin-bottom: 18px;
 }
 .htitle .hl {
-  color: var(--primary);
+  color: var(--secondary);
   position: relative;
   display: inline-block;
 }
@@ -1706,7 +1706,7 @@ footer {
   color: #fff;
 }
 .fnm span {
-  color: var(--primary);
+  color: var(--secondary);
 }
 .fdesc {
   color: #777;
